@@ -4,5 +4,5 @@ The Real Time Streaming Protocol (RTSP) is a network control protocol designed f
 
 This project is emulate all the request and response message between RTSP client and server such as DESCRIBE, SETUP,PLAY,PAUSE and TEARDOWN. 
 
-A test wireshark is available here. 
+ 
 
